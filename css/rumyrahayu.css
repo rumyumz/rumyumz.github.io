@@ -1,0 +1,93 @@
+* {padding: 0; margin: 0}
+
+body {
+	background: #DCD0FF; margin-top: 25px;
+}
+
+header {
+	width: 900px; background: #dff9fb; padding: 25px;
+	margin: auto;
+	text-align: center;
+	color: #C291A4;
+}
+
+menu {
+ width: 900px; background: #C291A4; margin: auto;
+ padding: 25px;	
+}
+
+menu a {
+	color: white;text-decoration: none;
+	margin-right: 20px;
+}
+
+menu a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+article {width: 900px; background: #FAE8ED;
+	margin: auto;padding: 25px;
+	text-align: justify;
+}
+article img {
+	float: left;
+	width: 350px; height: 250px;
+	margin: 0 0 0 0;
+}
+
+article h1 {
+	margin: 0 0 25px 0;
+}
+
+article p {
+	margin: 0 0 25px 0;
+}
+
+article h2{
+	margin: auto;
+	text-align: center;
+	color: black;
+}
+
+article h4{
+	width: 800px; background: blue 
+	margin: 0 0 25px 0;
+	margin: auto;
+	padding: 25px;
+	text-align: center;
+	margin: 25px 40px 20px 30px 
+	color: white;
+}
+
+article img {
+	float: right;
+	width: 250px; height: 135px;
+	margin: auto;
+}
+
+article h5 {
+	width: 560px; background: pink;
+   margin: 0 0 0 0;
+	padding: 30px; color: grey;
+}
+
+article a:hover{
+	color: red;
+	text-decoration: underline;
+}
+
+body h3 {width: 900px; background: #C291A4; padding: 25px;
+	margin: auto;
+	text-align: center; 
+	color: white;
+}
+
+footer { width: 900px; background:pink; padding: 25px;
+margin: auto;
+text-align: center; 
+}
+
+footer p {
+	color: white;
+}
